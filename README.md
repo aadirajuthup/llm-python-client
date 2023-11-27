@@ -13,6 +13,6 @@ Features
 Getting Started
 ---------------
 
-1. Clone the repository and install dependencies using `pip install -r requirements.txt` or 'pip3 install -r requirements.txt'
-2. Set the `API KEY' in 'openai.api_key = ""' to the API given to you.
+1. Clone the repository and install dependencies using `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
+2. Set the `API KEY` in `openai.api_key = ""` to the API given to you.
 3. Run the script using `python main.py`
